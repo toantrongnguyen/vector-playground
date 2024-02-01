@@ -1,0 +1,19 @@
+{
+  "name": "vector-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^3.3.0",
+    "weaviate-ts-client": "^1.6.0"
+  }
+}
